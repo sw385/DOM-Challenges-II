@@ -1,3 +1,9 @@
+/*
+
+    FOR ALL THE PROMPTS. (PROMPT 5)
+    Add a CSS stylesheet that styles all of your pages.
+*/
+
 button {
 	width: 200px; 
 	height: 100px;
@@ -21,5 +27,12 @@ form {
     padding: 15px;
     font-family: arial;
     border-radius: 10px;
-};
+}
 
+h2#six {
+	font-family: arial;
+}
+
+p#result {
+	font-family: arial;
+}
