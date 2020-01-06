@@ -1,0 +1,25 @@
+button {
+	width: 200px; 
+	height: 100px;
+}
+
+.large-container {
+	text-align: center;
+}
+.large {
+	background-color: pink;
+	width: 500px;
+	height: 500px;
+	display: inline-block;
+	font-family: helvetica;
+}
+
+form {
+    border-style: solid;
+    width: 300px;
+    border-color:coral;
+    padding: 15px;
+    font-family: arial;
+    border-radius: 10px;
+};
+
